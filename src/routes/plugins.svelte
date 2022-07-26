@@ -4,9 +4,9 @@
     CurrentPageIndex.set(1);
 </script>
 
-<div class="hero h-[50vh] bg-base-200">
+<div class="hero h-[40rem] bg-base-200">
 	<div class="hero-content flex-col lg:flex-row-reverse">
-		<img src="images/rezonator.png" alt="Rezonator screenshot" class="w-4/5 shadow-xl rounded-2xl" />
+		<img src="images/rezonator.png" alt="Rezonator screenshot" class="w-[45rem] shadow-xl rounded-2xl" />
 		<div>
 			<h1 class="text-5xl font-bold">Rezonator</h1>
 			<p class="py-6">
@@ -18,9 +18,9 @@
 	</div>
 </div>
 
-<div class="hero h-[50vh] bg-base-100">
+<div class="hero h-[40rem] bg-base-100">
 	<div class="hero-content flex-col lg:flex-row">
-		<img src="images/rezonator.png" alt="Rezonator screenshot" class="w-4/5 shadow-xl rounded-2xl" />
+		<img src="images/rezonator.png" alt="Rezonator screenshot" class="w-[45rem] shadow-xl rounded-2xl" />
 		<div>
 			<h1 class="text-5xl font-bold">Plugin 2</h1>
 			<p class="py-6">

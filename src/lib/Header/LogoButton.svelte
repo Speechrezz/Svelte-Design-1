@@ -1,0 +1,1 @@
+<a href="#top" class="btn btn-ghost normal-case text-xl">Xynth</a>
